@@ -1,4 +1,4 @@
-# RSLAD CIFAR-10 Experiment Code
+# DDLC-RSLAD CIFAR-10 Experiment Code
 
 This repository provides the implementation of RSLAD and its enhanced version on the CIFAR-10 dataset. 
 The primary goal is to demonstrate the effectiveness of our proposed enhancement strategy (DDLC) 
