@@ -1,4 +1,3 @@
-# AD-DDLC
 # RSLAD CIFAR-10 Experiment Code
 
 This repository provides the implementation of RSLAD and its enhanced version on the CIFAR-10 dataset. 
